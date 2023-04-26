@@ -26,3 +26,4 @@ else:
             min = count
             index = i
     print(f'Число {A_num[index]} в массиве A наиболее близко по величине к числу {X}, их разница составляет {abs(X - A_num[index])}')
+    
