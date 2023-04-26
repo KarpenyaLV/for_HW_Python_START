@@ -22,3 +22,4 @@ else:
         if A_num[i] == X:
             count += 1
     print(f'Число {X} встречается в массиве A {count} раз') 
+    
